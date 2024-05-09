@@ -1,4 +1,4 @@
-[![MasterHead]([https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg))]
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif)]
 <h1 align="center">Hi, I'm Sumar Fawaz</h1>
 <h3 align="center">A Software Undergraduate working on core-level projects. Primary Tech Stack - C, C++, C#, Java, and PowerShell. Secondary Tech Stack - Java Full Stack Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif")/>
