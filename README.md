@@ -1,4 +1,4 @@
-![MasterHead]([https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif](https://softwaretestinglead.com/wp-content/uploads/2021/03/Cloud-Security-Testing.jpg)
+[![MasterHead]([https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif](https://softwaretestinglead.com/wp-content/uploads/2021/03/Cloud-Security-Testing.jpg))]
 <h1 align="center">Hi, I'm Sumar Fawaz</h1>
 <h3 align="center">A Software Undergraduate working on core-level projects. Primary Tech Stack - C, C++, C#, Java, and PowerShell. Secondary Tech Stack - Java Full Stack Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif")/>
